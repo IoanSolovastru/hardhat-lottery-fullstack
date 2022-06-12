@@ -1,0 +1,14 @@
+require("../helper-hardhat-config")
+networkConfig[4]["name"]
+networkConfig
+const {networkConfig} = require("../helper-hardhat-config");
+networkConfig[chainId]["raffleEntranceFee"]
+chainId
+const chainId = network.config.chainId
+networkConfig[4]
+const {networkConfig} = require("../helper-hardhat-config")
+networkConfig
+const { developmentChains, networkConfig } = require("../helper-hardhat-config")
+const { verify } = require("../utils/verify");
+const { developmentChains, networkConfig } = require("../helper-hardhat-config");
+onst { network, ethers } = require("hardhat");
